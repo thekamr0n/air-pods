@@ -1,0 +1,40 @@
+
+@media (max-width: 1140px) {
+    .section__boxes{
+        justify-content: center;
+    }
+}
+@media (max-width: 850px) {
+    .section__content-img{
+        width: 300px;
+        height: 200px;
+    }
+}
+@media (max-width: 686px) {
+    .section__content2-img{
+        width: 400px;
+        height: 200px;
+    }
+
+    .section__content3-img{
+        width: 400px;
+        height: 200px;
+    }
+
+    .title{
+        font-size: 64px;
+    }
+
+    .section__content-txt {
+        font-size: 16px;
+    }
+
+
+}
+    
+@media (max-width: 480px) {
+    .section__content-img{
+        align-items: center;
+    }
+}
+@media (max-width: 460px) {}
